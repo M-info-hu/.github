@@ -1,2 +1,8 @@
 # .github
-M-info.hu
+# M-info.hu
+
+## IT technologies
+
+ - Maintanance
+ - Development
+ - Operation
