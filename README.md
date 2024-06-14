@@ -1,0 +1,2 @@
+# .github
+M-info.hu
